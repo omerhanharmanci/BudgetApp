@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355704081168",
+    "project_id": "fir-budget-app-7945a",
+    "storage_bucket": "fir-budget-app-7945a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355704081168:android:49265978be4cc52f387395",
+        "android_client_info": {
+          "package_name": "com.omerhanharmanci.budgetappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355704081168-8hh17q61kudg5ap1391qg90jlp9j4h07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdjC0QFq-wHExsjUA80jGVC0-bychvxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355704081168-8hh17q61kudg5ap1391qg90jlp9j4h07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

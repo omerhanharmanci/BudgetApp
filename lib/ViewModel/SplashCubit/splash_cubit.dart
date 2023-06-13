@@ -29,6 +29,7 @@ class SplashCubit extends Cubit<SplashState> {
 
   void _appInit() async {
     emit(const SplashBusy());
+    await Future.delayed(const Duration(seconds: 10));
     await _getCurrentUser();
   }
 
